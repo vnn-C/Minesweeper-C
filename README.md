@@ -1,2 +1,2 @@
 # Minesweeper-C
-minesweeper-zip is outdated.
+Minesweeper-zip is outdated. vnn-CMinesweeper.zip is the latest version.
